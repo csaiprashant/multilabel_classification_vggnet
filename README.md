@@ -9,6 +9,10 @@ The VGG network architecture was introduced by Simonyan and Zisserman in their 2
 This network is characterized by its simplicity, using only 3×3 receptive fields (which is the smallest size to capture the notion of left/right, up/down, center) stacked on top of each other in increasing depth. Reducing volume size is handled by max pooling. Two fully-connected layers, each with 4,096 nodes are then followed by a softmax classifier.</p>
 <p>The architecture of our neural network is heavily inspired by that of VGGNet. We use the same concept of small 3x3 receptive fields with depth increasing after each layer, but the only difference is that of the depth of the network.</p>
 
+## Examples
+![Sample 1](https://github.com/csaiprashant/multilabel_classification_vggnet/blob/master/examples/01.png)
+![Sample 2](https://github.com/csaiprashant/multilabel_classification_vggnet/blob/master/examples/10.png)
+
 ## Files in the Repository:
 - /examples/ - Contains a few examples output of our SmallerVGGNet on our test images.
 - __init__.py - Blank python script to initialize Python packages.
