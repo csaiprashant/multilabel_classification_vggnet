@@ -24,3 +24,5 @@ This network is characterized by its simplicity, using only 3×3 receptive field
 - smallervggnet.py - Architecture of our neural network.
 - test_network.py - Python script for applying the trained classifier on a test image. 
 - train_network.py - Python script for training the classifer.
+
+### For full report, please refer ![https://github.com/csaiprashant/multilabel_classification_vggnet/blob/master/projectreport.pdf]
