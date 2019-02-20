@@ -25,4 +25,4 @@ This network is characterized by its simplicity, using only 3×3 receptive field
 - test_network.py - Python script for applying the trained classifier on a test image. 
 - train_network.py - Python script for training the classifer.
 
-### For full report, please refer ![https://github.com/csaiprashant/multilabel_classification_vggnet/blob/master/projectreport.pdf]
+### For full report, please refer ![project report](https://github.com/csaiprashant/multilabel_classification_vggnet/blob/master/projectreport.pdf)
